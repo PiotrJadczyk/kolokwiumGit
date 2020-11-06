@@ -1,4 +1,7 @@
 Zmiana01
+<<<<<<< HEAD
 naprawaBledu1
+=======
+>>>>>>> prostaWersja
 Zmiana02a
 Zmiana02b
