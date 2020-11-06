@@ -2,4 +2,3 @@ Zmiana01b
 Zmiana02
 Zmiana03
 Zmiana04
-Zmiana05
