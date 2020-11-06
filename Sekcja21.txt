@@ -1,2 +1,4 @@
 Zmiana01
 naprawaBledu1
+Zmiana02a
+Zmiana02b
